@@ -1,12 +1,51 @@
 {
-  "name": "dublin-expat-assistant",
+  "name": "ireland-rag-assistant",
   "version": "1.0.0",
-  "private": true,
+  "description": "AI-powered RAG assistant for Turkish expats living in Ireland. Provides accurate information about taxation, immigration, healthcare, and housing based on official Irish government documents.",
+  "author": {
+    "name": "Cem Koyluoglu",
+    "url": "https://github.com/cemkoyluoglu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/cemkoyluoglu/ireland-rag-assistant#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemkoyluoglu/ireland-rag-assistant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cemkoyluoglu/ireland-rag-assistant/issues"
+  },
+  "keywords": [
+    "ireland",
+    "rag",
+    "ai",
+    "assistant",
+    "chatbot",
+    "expat",
+    "immigration",
+    "tax",
+    "paye",
+    "visa",
+    "nextjs",
+    "react",
+    "typescript",
+    "openai",
+    "pinecone",
+    "llama-index",
+    "n8n"
+  ],
+  "private": false,
+  "engines": {
+    "node": ">=18.17.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "format": "prettier --write .",
+    "prepare": "echo 'Ready to develop!'"
   },
   "dependencies": {
     "next": "14.2.5",
@@ -27,4 +66,3 @@
     "typescript": "^5.5.3"
   }
 }
-
