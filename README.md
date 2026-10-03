@@ -15,15 +15,11 @@
 
 [English](#-overview) · [Türkçe](#-genel-bakış)
 
-<br />
 
-<img src="https://raw.githubusercontent.com/cemkoyluoglu/ireland-rag-assistant/main/docs/banner.png" alt="Ireland RAG Assistant Banner" width="100%" />
-
-<br />
 
 **A sophisticated RAG (Retrieval-Augmented Generation) system that provides accurate, real-time information about living in Ireland — from visa requirements to tax calculations.**
 
-[Live Demo](https://ireland-rag.vercel.app) · [Report Bug](https://github.com/cemkoyluoglu/ireland-rag-assistant/issues) · [Request Feature](https://github.com/cemkoyluoglu/ireland-rag-assistant/issues)
+[Live Demo](https://chatgpt.com/g/g-693c3f003b308191a3aa51cf1e75e47e-ireland-expat-assistant) · [Report Bug](https://github.com/cemkoyluoglu/ireland-rag-assistant/issues) · [Request Feature](https://github.com/cemkoyluoglu/ireland-rag-assistant/issues)
 
 </div>
 
